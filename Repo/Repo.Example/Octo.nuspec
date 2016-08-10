@@ -10,6 +10,7 @@
     <licenseUrl></licenseUrl>
   </metadata>
   <files>
-	<file src="App.config" />
+    <file src="bin\*.*" target="bing" exclude="bin\*.xml" />
+    <file src="App.config" />
   </files>
 </package>

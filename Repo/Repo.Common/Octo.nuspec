@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>Repo.Common</id>
-    <version>1.2.3</version>
+    <version>$version$</version>
     <authors>Mirza Merdovic</authors>
     <description></description>
     <language>en-US</language>
@@ -10,6 +10,7 @@
     <licenseUrl></licenseUrl>
   </metadata>
   <files>
-	<file src="App.config" />
+    <file src="bin\*.*" target="bing" exclude="bin\*.xml" />
+    <file src="App.config" />
   </files>
 </package>
