@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Repo.Common</id>
-    <version>$version$</version>
+    <version>1.0.$version$</version>
     <authors>mirza</authors>
     <owners>mirza</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
