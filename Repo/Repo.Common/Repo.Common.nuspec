@@ -11,8 +11,4 @@
     <copyright>Copyright 2016</copyright>
     <tags>Tag1 Tag2</tags>
   </metadata>
-  <files>
-    <file src="bin\*.*" target="bing" exclude="bin\*.xml" />
-    <file src="App.config" />
-  </files>
 </package>
