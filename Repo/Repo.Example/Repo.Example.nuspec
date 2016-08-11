@@ -2,9 +2,9 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>Repo.Example</id>
-    <version>1.2.3</version>
+    <version>$version$</version>
     <authors>Mirza Merdovic</authors>
-    <description></description>
+    <description>Rxample project.</description>
     <language>en-US</language>
     <projectUrl></projectUrl>
     <licenseUrl></licenseUrl>
